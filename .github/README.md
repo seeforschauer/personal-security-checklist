@@ -580,10 +580,10 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/0x5FE">
-            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="0x5FE"/>
+        <a href="https://github.com/mrfelpa">
+            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="mrfelpa"/>
             <br />
-            <sub><b>0x5FE</b></sub>
+            <sub><b>mrfelpa</b></sub>
         </a>
     </td></tr>
 <tr>
